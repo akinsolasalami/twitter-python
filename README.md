@@ -5,3 +5,6 @@ utilize that I found on Twitter.
 ## Last Updated
 __8th December, 2021__ 
 
+## Some Useful Links
+[Python Cheat Sheet 1](https://github.com/gto76/python-cheatsheet)
+
