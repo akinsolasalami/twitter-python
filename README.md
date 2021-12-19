@@ -8,3 +8,4 @@ __8th December, 2021__
 ## Some Useful Links
 [Python Cheat Sheet 1](https://github.com/gto76/python-cheatsheet)
 
+[Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
